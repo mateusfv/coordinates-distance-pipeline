@@ -46,14 +46,3 @@ Label,coord1,coord2,coord3,...
 ```
 
 The number of coordinates must match the sample input.
-
-## Roadmap
-
-- [x] Euclidean distance
-- [x] Chebyshev distance
-- [ ] Manhattan distance
-- [ ] Docker containerization
-- [ ] AWS Lambda deployment
-- [ ] S3 input/output
-- [ ] GitHub Actions CI/CD
-- [ ] Terraform infrastructure
